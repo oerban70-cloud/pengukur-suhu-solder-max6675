@@ -8,7 +8,7 @@ dengan statusnya — DINGIN, PAS, atau PANAS. Kalau suhu turun di bawah
 250 derajat, buzzer langsung bunyi sebagai peringatan.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/mEOwW1kRuv8
 
 ## Komponen
 
